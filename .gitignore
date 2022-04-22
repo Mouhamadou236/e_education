@@ -1,0 +1,5 @@
+/.idea
+e-education.iml
+package.json
+package-lock.json
+/node_modules
