@@ -38,7 +38,7 @@ app.use(function(req, res, next) {
 
 app.post('/login', (req, res) => {
     const user = user_file.login(req.body.email, req.body.password);
-    if (user != -1) {
+    if (user !== -1) {
         req.session.user = user;
         req.session.name = req.body.email;
         res.redirect('./home');
@@ -49,7 +49,7 @@ app.post('/login', (req, res) => {
 
 app.post('/new_user', (req, res) => {
     const user = user_file.new_user(req.body.firstName, req.body.lastName, req.body.email, req.body.password);
-    if (user != -1) {
+    if (user !== -1) {
       req.session.user = user;
       req.session.name = req.body.user;
       res.redirect('/');
