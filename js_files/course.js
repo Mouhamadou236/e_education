@@ -77,3 +77,8 @@ exports.delete = function(id) {
     return false;
 }
 
+exports.list = function () {
+    let list = db.prepare('SELECT * FROM course ORDER BY id').all();
+    return list;
+}
+
