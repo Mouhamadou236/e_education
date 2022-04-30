@@ -85,13 +85,23 @@ app.get('/', (req, res) => {
     Fonctionnement des ords
 */
 app.get('/Licence1', (req, res) => {
-    let titles = courses_file.list();   
-    res.render('subject', {mytitle : titles});
+    let level = courses_file.listL1();
+    res.render('Licence1', {Level : level},);
 })
 
 app.get('/Licence2', (req, res) => {
-    let titles = courses_file.list();   //=> functionn list à Faire
-    res.render('subject', {mytitle : titles});
+    let level = courses_file.listL2();
+    res.render('Licence2', {Level : level});
+})
+
+app.get('/Programmation2', (req, res) => {
+    let titles = courses_file.listProg2();
+    res.render('Programmation2', {Course : titles});
+})
+
+app.get('/Programmation 1', (req, res) => {
+    let titles = courses_file.listProg2();
+    res.render('Programmation 2', {Course : titles});
 })
 
 /*
@@ -110,4 +120,4 @@ Examen:
 */
 
 
-  app.listen(3100), () => console.log('Listening on http://localhost:3100');
+app.listen(3100), () => console.log('Listening on http://localhost:3100');
