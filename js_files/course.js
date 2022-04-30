@@ -14,12 +14,12 @@ db.prepare('DROP TABLE IF EXISTS course').run();
 db.prepare('CREATE TABLE users (id INTEGER PRIMARY KEY AUTOINCREMENT, firstName TEXT, lastName TEXT, email TEXT, password TEXT)').run();
 db.prepare('CREATE TABLE first_year (subject TEXT)').run();
 db.prepare('CREATE TABLE second_year (subject TEXT)').run();
-db.prepare('CREATE TABLE course (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, file TEXT, movie TEXT, date TEXT)').run();
+db.prepare('CREATE TABLE course (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, file TEXT, movie TEXT, date TEXT, level TEXT, subject TEXT)').run();
 
 
 exports.load = function(fileName) {
     const course = JSON.parse(fs.readFileSync(fileName));
-    let insert  = db.prepare('INSERT INTO course VALUES (@id, @title, @file, @movie, @image, @date');
+    let insert  = db.prepare('INSERT INTO course VALUES (@id, @title, @file, @movie, @date, @level, @subject)');
     let clear_and_insert_many = db.transaction((course) => {
         db.prepare('DELETE FROM course');
         for (let id of Object.keys(course)) {
