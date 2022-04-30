@@ -5,12 +5,13 @@ let mustache = require('mustache-express');
 
 let fs = require('fs');
 let courses_file = require('./course');
-courses_file.load('file.json');
+courses_file.load('course.json');
 let user_file = require('./user');
 let app = express();
 
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({ extended : false }));
+app.use(express.static( '../css_files_&&_images'));
 
 const cookieSession = require('cookie-session');
 app.use(cookieSession({
@@ -19,7 +20,7 @@ app.use(cookieSession({
 
 app.engine('html', mustache());
 app.set('view engine', 'html');
-app.set('views', './views');
+app.set('views', '../views');
 
 function is_authenticated(req, res, next) {
     if (req.session.user !== undefined) {
@@ -72,7 +73,7 @@ app.post('/new_user', (req, res) => {
   });
 
 app.get('/', (req, res) => {
-    res.render('index'); //acceuil debut du site
+    res.render('login'); //acceuil debut du site
 });
 
 //Routes pour les matières
