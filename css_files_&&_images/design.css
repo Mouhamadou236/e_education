@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: darkblue;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+
+}
+header{
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    box-shadow: 0 0 5px #000;
+    height: 10vh;
+}
+
+form{
+    background-color: #fff;
+    justify-content: center;
+}
+
+footer{
+    background-color: rgba(229, 182, 95, 0.99);
+    width: 100vw;
+}
+
+#sign_out{
+    margin: 10px 7px 5px 0;
+}
+
+#login{
+    margin: 10px 7px 5px 0;
+}
+
+#register{
+    margin: 10px 7px 5px 60vw;
+
+}
+
+#first_year{
+    margin: 10px 7px 5px 0;
+}
+
+#second_year{
+    margin: 10px 7px 5px 0;
+}
+
+#sign_out:hover{
+    text-decoration: underline;
+    transition: all 3ms;
+}
