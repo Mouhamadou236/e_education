@@ -3,409 +3,540 @@
     "id": 0,
     "title": "Rappel sur la pregrammation objet",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours1_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=cvpkw2ZN4Ps",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "1" : {
     "id": 1,
     "title": "Rappel et types parémétrés",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours2_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=7Buk7i_RGok",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "2" : {
     "id": 2,
     "title": "Bonnes pratiques de programmation",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours3_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=WWPah-_AwLg",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "3" : {
     "id": 3,
-    "title": "Bonnes pratiques de programmation",
-    "file": "",
-    "movie": "lien du movie3",
+    "title": "Gestion de version",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/cours/cours10_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=seiMXT7SULQ",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "4" : {
     "id": 4,
     "title": "Interfaces",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours4_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=M0hkhOoOIHg&list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv&index=20",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "5" : {
     "id": 5,
     "title": "Délégation et extension",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours5_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=zfiohSIZtbo",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "6" : {
     "id": 6,
     "title": "Surchage et Exceptions",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours6_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=UEISfoJaOyk&list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv&index=17",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "7" : {
     "id": 7,
     "title": "Enum et documentation",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours7_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=pbAkJiz-DNU",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "8" : {
     "id": 8,
     "title": "Paquetage, final et types paramétrés",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours8_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=CPxrEntMxsQ&list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv&index=21",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "9" : {
     "id": 9,
     "title": "Classes imbriqués, gestion de projet, TDD et principes solides",
     "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation2_2021/cours/cours9_slides.pdf",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=vf2YF8Y9liQ",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation 2"
+    "level": "Licence2",
+    "subject": "Programmation2"
   },
 
   "10" : {
     "id": 10,
     "title": "Analyse combinatoire",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5240505/mod_resource/content/4/proba1.pdf?forcedownload=1",
-    "movie": "lien du movie3",
+    "file": "http://mathsv.univ-lyon1.fr/app/cours/?theme=proba&chap=1#:~:text=L'analyse%20combinatoire%20est%20une,combinatoire%20d%C3%A9velopp%C3%A9es%20dans%20ce%20chapitre.",
+    "movie": "https://www.youtube.com/watch?v=VVY4K-OT4FI",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Probabilité"
+    "level": "Licence2",
+    "subject": "Probabilite"
   },
 
   "11" : {
     "id": 11,
     "title": "Axiomes des probabilité",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5240506/mod_resource/content/6/proba2.pdf?forcedownload=1",
-    "movie": "lien du movie3",
+    "file": "https://mistis.inrialpes.fr/software/SMEL/cours/mp/node3.html",
+    "movie": "https://www.youtube.com/watch?v=XiiK5Xr_DiY",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Probabilité"
+    "level": "Licence2",
+    "subject": "Probabilite"
   },
 
   "12" : {
     "id": 12,
     "title": "Probabilité conditionnelle et indépendance",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5297073/mod_resource/content/5/proba3.pdf?forcedownload=1",
-    "movie": "lien du movie3",
+    "file": "https://idpoisson.fr/berglund/probamass_html/node4.html",
+    "movie": "https://www.youtube.com/watch?v=5oBnmZVrOXE",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Probabilité"
+    "level": "Licence2",
+    "subject": "Probabilite"
   },
 
   "13" : {
     "id": 13,
     "title": "Variables aléatoires discrétes",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5315612/mod_resource/content/6/proba4.pdf?forcedownload=1",
-    "movie": "lien du movie3",
+    "file": "https://idpoisson.fr/berglund/probamass_html/node5.html",
+    "movie": "https://www.youtube.com/watch?v=UGhCQ-uLcoA",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Probabilité"
+    "level": "Licence2",
+    "subject": "Probabilite"
   },
 
   "14" : {
     "id": 14,
     "title": "Variables aléatoires continues",
     "file": "https://ametice.univ-amu.fr/pluginfile.php/5240509/mod_resource/content/3/proba5.pdf?forcedownload=1",
-    "movie": "lien du movie3",
+    "movie": "https://www.youtube.com/watch?v=mGEFONTg5dM",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Probabilité"
+    "level": "Licence2",
+    "subject": "Probabilite"
   },
 
   "15" : {
     "id": 15,
     "title": "Notion d'algorithme",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4976449/mod_resource/content/1/cours1.pdf",
-    "movie": "lien du movie3",
+    "file": "https://www.lri.fr/~hivert/COURS/CFA-L3/00-Intro.pdf",
+    "movie": "https://www.youtube.com/watch?v=T6dTjSUPnEU",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "16" : {
     "id": 16,
     "title": "Correction d'un algorithme",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4976477/mod_resource/content/1/cours2-2021-22.pdf",
-    "movie": "lien du movie3",
+    "file": "http://info-mounier.fr/ressources/1nsi/seq5/S5_C2_Correction_algorithme_prof.pdf",
+    "movie": "https://www.youtube.com/watch?v=AtR-RlsBeQw",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "17" : {
     "id": 17,
-    "title": "Correction d'un algorithme 2",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5169543/mod_resource/content/1/cours2bis.pdf",
-    "movie": "lien du movie3",
+    "title": "Preuve de terminaison d'un algorithme",
+    "file": "http://www.irem.univ-bpclermont.fr/IMG/pdf/4TerminaisonCorrection.pdf",
+    "movie": "https://www.youtube.com/watch?v=x4ODr5jU0i0",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "18" : {
     "id": 18,
-    "title": "Preuve de terminaison d'un algorithme",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4973081/mod_resource/content/2/cours3.pdf",
-    "movie": "lien du movie3",
+    "title": "Complexité d'un algorithme",
+    "file": "http://www.irem.unilim.fr/fileadmin/documents/2015_01_04-Introduction_complexite_algorithmique.pdf",
+    "movie": "https://www.youtube.com/watch?v=vzUK6YxkhB0",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "19" : {
     "id": 19,
-    "title": "Complexité d'un algorithme",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4973084/mod_resource/content/2/cours4.pdf",
-    "movie": "lien du movie3",
+    "title": "La structure de données: Tableau",
+    "file": "https://www.lri.fr/~hivert/COURS/M2-CCI/04-Tableaux.pdf",
+    "movie": "https://www.youtube.com/watch?v=pXQEF9-tiGg",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "20" : {
     "id": 20,
-    "title": "La structure de données: Tableau",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4973090/mod_resource/content/1/cours5.pdf",
-    "movie": "lien du movie3",
+    "title": "Récursivité",
+    "file": "https://www.lri.fr/~fiorenzi/Teaching/AL/C2.pdf",
+    "movie": "https://www.youtube.com/watch?v=HMKsnbWWNIc",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "21" : {
     "id": 21,
-    "title": "Récursivité",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4973097/mod_resource/content/3/cours6.pdf",
-    "movie": "lien du movie3",
+    "title": "Définitions et fonctions inductives",
+    "file": "https://www.irif.fr/~kesner/enseignement/licence/math-info/Induction.pdf",
+    "movie": "https://www.youtube.com/watch?v=QvCV1Jbm694",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "22" : {
     "id": 22,
-    "title": "Définitions et fonctions inductives",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5315041/mod_resource/content/1/cours7.pdf",
-    "movie": "lien du movie3",
+    "title": "Structures de données linéaires: les piles",
+    "file": "https://info-llg.fr/commun-mp/pdf/01.piles.pdf",
+    "movie": "https://www.youtube.com/watch?v=0r-pSf3PwVQ",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "23" : {
     "id": 23,
-    "title": "Structures de données linéaires: les piles",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/4973106/mod_resource/content/4/cours9.pdf",
-    "movie": "lien du movie3",
+    "title": "Structures de données linéaires: les files",
+    "file": "https://info-llg.fr/commun-mp/pdf/01.slide.pdf",
+    "movie": "https://www.youtube.com/watch?v=FWbxHI9b6xg",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Structures_discretes"
   },
 
   "24" : {
     "id": 24,
-    "title": "Structures de données linéaires: les files",
-    "file": "https://ametice.univ-amu.fr/pluginfile.php/5326885/mod_resource/content/1/cours9.pdf",
-    "movie": "lien du movie3",
+    "title": "Introduction au langage C à partir de Java",
+    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-0.intro-to-c.pdf",
+    "movie": "https://www.youtube.com/watch?v=90hGCMC3Chc&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=1",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Structures discrètes"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "25" : {
     "id": 25,
-    "title": "Introduction au langage C à partir de Java",
-    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-0.intro-to-c.pdf",
-    "movie": "lien du movie3",
+    "title": "La mémoire, adresses et pointeurs",
+    "file": "https://www.dil.univ-mrs.fr/~regis/prog/cm/prog.cm-03.memoire.pdf",
+    "movie": "https://www.youtube.com/watch?v=Qra-0U_jEKs&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=11",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "26" : {
     "id": 26,
-    "title": "La mémoire, adresses et pointeurs",
-    "file": "https://www.dil.univ-mrs.fr/~regis/prog/cm/prog.cm-03.memoire.pdf",
-    "movie": "lien du movie3",
+    "title": "Arithmétique des pointeurs et tableaux",
+    "file": "https://www.dil.univ-mrs.fr/~regis/prog/cm/prog.cm-04.ptr-arithm.pdf",
+    "movie": "https://www.youtube.com/watch?v=6nkUWnCoRp4&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=12",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "27" : {
     "id": 27,
-    "title": "Arithmétique des pointeurs et tableaux",
-    "file": "https://www.dil.univ-mrs.fr/~regis/prog/cm/prog.cm-04.ptr-arithm.pdf",
-    "movie": "lien du movie3",
+    "title": "Modules et compilation séparée",
+    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-3a.modules.pdf",
+    "movie": "https://www.youtube.com/watch?v=tXgSx9MkVjs&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=9",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "28" : {
     "id": 28,
-    "title": "Modules et compilation séparée",
-    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-3a.modules.pdf",
-    "movie": "lien du movie3",
+    "title": "Le programme make et son fichier Makefile",
+    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-3b.makefile.pdf",
+    "movie": "https://www.youtube.com/watch?v=L8q1wJ8z7Ts&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=10",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "29" : {
     "id": 29,
-    "title": "Le programme make et son fichier Makefile",
-    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-3b.makefile.pdf",
-    "movie": "lien du movie3",
+    "title": "Environnement d'exécution des processus",
+    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-2a.process-environment-in-shell.pdf",
+    "movie": "https://www.youtube.com/watch?v=L8q1wJ8z7Ts&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=10",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "30" : {
     "id": 30,
-    "title": "Environnement d'exécution des processus",
-    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-2a.process-environment-in-shell.pdf",
-    "movie": "lien du movie3",
+    "title": "Communication Inter-Processus (IPC)",
+    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-5b.inter-process-communication.pdf",
+    "movie": "https://www.youtube.com/watch?v=L8q1wJ8z7Ts&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j&index=10",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence2",
+    "subject": "Programmation_C_et_Systemes"
   },
 
   "31" : {
     "id": 31,
-    "title": "Communication Inter-Processus (IPC)",
-    "file": "https://www.dil.univ-mrs.fr/~regis/c-sys/cm/c-sys.cm-5b.inter-process-communication.pdf",
-    "movie": "lien du movie3",
+    "title": "Premier pas avec Java",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours1_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=_l4pJ7HCrl4",
     "date": "26-04-2022",
-    "level": "Licence 2",
-    "subject": "Programmation C et Système"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "32" : {
     "id": 32,
-    "title": "Premier avec Java",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours1_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Notion de classes en Java",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours2_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=IvHUljLP3NY&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM&index=7",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "33" : {
     "id": 33,
-    "title": "Notion de classes en Java",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours2_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Méthode et penser objet",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours3_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=IvHUljLP3NY&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM&index=7",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "34" : {
     "id": 34,
-    "title": "Méthode et penser objet",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours3_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Encapsulation, types primitifs",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours4_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=3qhoAYfk7cM",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "35" : {
     "id": 35,
-    "title": "Encapsulation, types primitifs",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours4_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Egalité, final, static et surcharge",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours5_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=5geG7PCLX_k",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "36" : {
     "id": 36,
-    "title": "Egalité, final, static et surcharge",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours5_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Surcharge et documentation",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours6_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=_IwGb_hYMuY&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM&index=17",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "37" : {
     "id": 37,
-    "title": "Surcharge et documentation",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours6_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Notion de test",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours7_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=Ta730IqB2Ek",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "38" : {
     "id": 38,
-    "title": "Notion de test",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours7_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Enumération",
+    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours8_slides.pdf",
+    "movie": "https://www.youtube.com/watch?v=pbAkJiz-DNU&list=PLMS9Cy4Enq5LKYxJmD1ZIu3C7f3vA00hM&index=10",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Programmation1"
   },
 
   "39" : {
     "id": 39,
-    "title": "Enumération",
-    "file": "https://pageperso.lis-lab.fr/~arnaud.labourel/programmation1_2022/?cours/cours8_slides.pdf",
-    "movie": "lien du movie3",
+    "title": "Logique et raisonnement",
+    "file": "https://www.editions-ellipses.fr/index.php?controller=attachment&id_attachment=39286",
+    "movie": "https://www.youtube.com/watch?v=aWSe1fjJHEM",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Programmation 1"
+    "level": "Licence1",
+    "subject": "Algebre1"
   },
 
   "40" : {
     "id": 40,
-    "title": "",
-    "file": "",
-    "movie": "lien du movie3",
+    "title": "Ensembles et  applications",
+    "file": "https://www.math.sciences.univ-nantes.fr/~pajitnov/home_page/teaching/formar/ch1.pdf",
+    "movie": "https://www.youtube.com/watch?v=bPT6-g3B5wQ",
     "date": "26-04-2022",
-    "level": "Licence 1",
-    "subject": "Algèbre 1"
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "41" : {
+    "id": 41,
+    "title": "Espace vectoriels",
+    "file": "https://www.maths-france.fr/MathSup/Cours/21-espaces-vectoriels.pdf",
+    "movie": "https://www.youtube.com/watch?v=NtVu2HHj7_U",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "42" : {
+    "id": 42,
+    "title": "Matrices",
+    "file": "http://exo7.emath.fr/cours/ch_matrices.pdf",
+    "movie": "https://www.youtube.com/watch?v=AQDyvMW3dSo",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "43" : {
+    "id": 43,
+    "title": "Dimensions des espaces vectoriels",
+    "file": "https://www.maths-france.fr/MathSup/Cours/22-dimensions.pdf",
+    "movie": "https://www.youtube.com/watch?v=mMQhhHnhET4",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "43" : {
+    "id": 43,
+    "title": "Matrices et applications linéaires",
+    "file": "http://exo7.emath.fr/cours/ch_matlin.pdf",
+    "movie": "https://www.youtube.com/watch?v=ozMEF87Gf_U",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "44" : {
+    "id": 44,
+    "title": "Déterminant",
+    "file": "http://exo7.emath.fr/cours/ch_determinants.pdf",
+    "movie": "https://www.youtube.com/watch?v=O3tic0Vqh7s",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Algebre1"
+  },
+
+  "45" : {
+    "id": 45,
+    "title": "Introduction",
+    "file": "https://python.sdv.univ-paris-diderot.fr/01_introduction/",
+    "movie": "https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "46" : {
+    "id": 46,
+    "title": "Variables et operations",
+    "file": "https://www.codingame.com/playgrounds/53303/apprendre-python-dans-le-secondaire/cours---variables-et-operations",
+    "movie": "https://www.youtube.com/watch?v=w-r8SpjhmPQ&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=4",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+
+  "47" : {
+    "id": 47,
+    "title": "Les conditions",
+    "file": "http://robert.cireddu.free.fr/SIN/Programmer%20avec%20python-les%20conditions.pdf",
+    "movie": "https://www.youtube.com/watch?v=T_AsJ0nIeh0&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=5",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "48" : {
+    "id": 48,
+    "title": "Les boucles",
+    "file": "https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/",
+    "movie": "https://www.youtube.com/watch?v=excGUISppC4&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=6",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "49" : {
+    "id": 49,
+    "title": "Les fonctions",
+    "file": "https://python.sdv.univ-paris-diderot.fr/09_fonctions/",
+    "movie": "https://www.youtube.com/watch?v=7aOeZ0cYc_Y&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=7",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "50" : {
+    "id": 50,
+    "title": "Les listes",
+    "file": "https://python.sdv.univ-paris-diderot.fr/04_listes/",
+    "movie": "https://www.youtube.com/watch?v=AFRdL2hge0o&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=16",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "51" : {
+    "id": 51,
+    "title": "Les dictionnaires",
+    "file": "https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/",
+    "movie": "https://www.youtube.com/watch?v=BYDJRsE-N5Y&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=18",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
+  },
+
+  "52" : {
+    "id": 52,
+    "title": "Les tuples",
+    "file": "https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/",
+    "movie": "https://www.youtube.com/watch?v=n54Q-IccZEs&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC&index=17",
+    "date": "26-04-2022",
+    "level": "Licence1",
+    "subject": "Python"
   }
 }

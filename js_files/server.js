@@ -13,6 +13,8 @@ app.use(express.static( '../css_files_&&_images'));
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({ extended : false }));
 app.use(express.static( '../css_files_&&_images'));
+app.use(express.static( '../../Cours de programmation2'));
+app.use(express.static( '../js_files_front_end'));
 
 const cookieSession = require('cookie-session');
 app.use(cookieSession({
@@ -43,9 +45,9 @@ app.post('/login', (req, res) => {
     if (user !== -1) {
         req.session.user = user;
         req.session.name = req.body.email;
-        res.redirect('./home');
+        res.redirect('/');
     } else {
-        res.redirect('./login')
+        res.redirect('login')
     }
 });
 
@@ -56,7 +58,7 @@ app.post('/new_user', (req, res) => {
       req.session.name = req.body.user;
       res.redirect('/');
     } else {
-      res.redirect('/');
+      res.redirect('login');
     }
   });
 
@@ -74,16 +76,19 @@ app.post('/new_user', (req, res) => {
   });
 
 app.get('/', (req, res) => {
-    res.render('login'); //acceuil debut du site
+    res.render('index');
 });
 
-//Routes pour les matières
-/*1er_année:
-    Math
-    Info
-    Prog
-    Fonctionnement des ords
-*/
+//Route pour mon Profil
+app.post('/Profil', (req, res) => {
+    const user = user_file.update(req.body.firstName, req.body.lastName, req.body.email, req.body.password);
+    res.redirect('/');
+});
+
+app.get('/Profil', (req, res) => {
+    res.render('Profil');
+});
+
 app.get('/Licence1', (req, res) => {
     let level = courses_file.listL1();
     res.render('Licence1', {Level : level},);
@@ -99,25 +104,37 @@ app.get('/Programmation2', (req, res) => {
     res.render('Programmation2', {Course : titles});
 })
 
-app.get('/Programmation 1', (req, res) => {
+app.get('/Programmation1', (req, res) => {
     let titles = courses_file.listProg2();
-    res.render('Programmation 2', {Course : titles});
+    res.render('Programmation1', {Course : titles});
 })
 
-/*
-2ème année:
-    Prog 2 
-    Structure
-    Proba
-    Langage C 
-*/
+app.get('/Probabilite', (req, res) => {
+    let titles = courses_file.listProbabilite();
+    res.render('Probabilite', {Course : titles});
+})
+
+app.get('/Python', (req, res) => {
+    let titles = courses_file.listPython();
+    res.render('Python', {Course : titles});
+})
+
+app.get('/Structures_discretes', (req, res) => {
+    let titles = courses_file.listStructures();
+    res.render('Structures_discretes', {Course : titles});
+})
+
+app.get('/Programmation_C_et_Systemes', (req, res) => {
+    let titles = courses_file.listProgC();
+    res.render('ProgrammationC', {Course : titles});
+})
+
+app.get('/Algebre1', (req, res) => {
+    let titles = courses_file.listAlgèbre1();
+    res.render('Algebre1', {Course : titles});
+})
 
 
-/*
-Examen:
-    Licence 1
-    Licence 2
-*/
 
 
-app.listen(3100), () => console.log('Listening on http://localhost:3100');
+app.listen(3107), () => console.log('Listening on http://localhost:3100');
