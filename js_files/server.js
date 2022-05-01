@@ -45,9 +45,9 @@ app.post('/login', (req, res) => {
     if (user !== -1) {
         req.session.user = user;
         req.session.name = req.body.email;
-        res.redirect('/');
+        res.render('home');
     } else {
-        res.redirect('login')
+        res.redirect('/login')
     }
 });
 
@@ -56,9 +56,9 @@ app.post('/new_user', (req, res) => {
     if (user !== -1) {
       req.session.user = user;
       req.session.name = req.body.user;
-      res.redirect('/');
+      res.render('home');
     } else {
-      res.redirect('login');
+      res.redirect('/login');
     }
   });
 
@@ -82,7 +82,7 @@ app.get('/', (req, res) => {
 //Route pour mon Profil
 app.post('/Profil', (req, res) => {
     const user = user_file.update(req.body.firstName, req.body.lastName, req.body.email, req.body.password);
-    res.redirect('/');
+    res.render('home');
 });
 
 app.get('/Profil', (req, res) => {

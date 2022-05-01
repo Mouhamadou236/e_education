@@ -41,7 +41,7 @@ footer{
 }
 
 #sign_out{
-    margin: 10px 7px 5px 0;
+    margin: 10px 7px 5px 60vw;
     border: 1px solid;
     height: 4vh;
     padding: 2px;
@@ -60,7 +60,7 @@ footer{
 }
 
 #register{
-    margin: 10px 7px 5px 55vw;
+    margin: 10px 7px 5px 70vw;
     border: 1px solid;
     height: 4vh;
     padding: 2px;
