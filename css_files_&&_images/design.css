@@ -1,7 +1,6 @@
 body{
     margin: 0;
     padding: 0;
-    color: darkblue;
 }
 
 main{
@@ -16,42 +15,164 @@ header{
     display: flex;
     flex-direction: row;
     width: 100vw;
-    box-shadow: 0 0 5px #000;
-    height: 10vh;
+    box-shadow: 0 0 7px #000;
+    height: 7vh;
 }
 
 form{
     background-color: #fff;
     justify-content: center;
+    margin: 0 37vw 0 38vw;
+    border:1px solid;
+    border-radius: 5px;
+    height:50vh;
+    padding:3%;
+    box-shadow: 0 0 5px darkturquoise;
+}
+.register{
+    width:20vw;
+    height:4vh;
 }
 
 footer{
     background-color: rgba(229, 182, 95, 0.99);
     width: 100vw;
+    height:15vh;
 }
 
 #sign_out{
     margin: 10px 7px 5px 0;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    transition: all 1000ms;
+    border-radius: 7px;
 }
 
 #login{
+    transition: all 1000ms;
     margin: 10px 7px 5px 0;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    border-radius: 7px;
+
 }
 
 #register{
-    margin: 10px 7px 5px 60vw;
-
+    margin: 10px 7px 5px 55vw;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    transition: all 1000ms;
+    border-radius: 7px;
 }
 
 #first_year{
-    margin: 10px 7px 5px 0;
+    transition: all 1000ms;
+    margin: 10px 7px 5px 8px;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    border-radius: 7px;
 }
 
 #second_year{
+    transition: all 1000ms;
     margin: 10px 7px 5px 0;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    border-radius: 7px;
+}
+
+#profile{
+    transition: all 1000ms;
+    margin: 10px 7px 5px 0;
+    border: 1px solid;
+    height: 4vh;
+    padding: 2px;
+    border-radius: 7px;
+}
+
+#logo_instagramm{
+    margin: 4vh 0 0 50vw;
+    width: 25px;
+    height: 25px;
+}
+
+#logo_linkedin{
+    margin: 0 0 0 5vw;
+    width: 25px;
+    height: 25px;
+}
+#contacts{
+    margin: 2vh 0 0 51vw;
+}
+
+#register:hover{
+    background-color: darkturquoise;
+    transition: all 1000ms;
+    color:#fff;
 }
 
 #sign_out:hover{
-    text-decoration: underline;
-    transition: all 3ms;
+    transition: all 1000ms;
+    box-shadow: 0 0 8px #ff0000;
+    color:#fff;
 }
+
+#first_year:hover{
+    background-color: darkturquoise;
+    transition: all 1000ms;
+    color:#fff;
+}
+
+#second_year:hover{
+    background-color: darkturquoise;
+    transition: all 1000ms;
+    color:#fff;
+}
+
+#login:hover{
+    background-color: darkturquoise;
+    transition: all 1000ms;
+    color:#fff;
+}
+
+#profile:hover{
+    background-color: darkturquoise;
+    transition: all 1000ms;
+    color:#fff;
+}
+#botton, #send{
+    width:100px;
+    height:35px;
+    border-radius:45px;
+    font-size:1.2em;
+    font-weight:900;
+    background:#fff;
+    color:#000;
+    border: 1px solid;
+    transition: all 1s ease;
+    transition-delay: 0.1s;
+    cursor: pointer;
+}
+
+#botton:hover{
+    box-shadow: 0 0 20px #a8eb12, 0 0 40px #E004B6;
+    border:4px solid #a8eb12;
+    background:#a8eb12;
+    color:#fff;
+    transition: box-shadow 3s, border 1.5s, background 1.5s, color 1.5s;
+}
+
+
+#send:hover{
+    box-shadow: 0 0 20px #a8eb12, 0 0 40px #E004B6;
+    border:4px solid #a8eb12;
+    background:#a8eb12;
+    color:#fff;
+    transition: box-shadow 3s, border 1.5s, background 1.5s, color 1.5s;
+}
+
